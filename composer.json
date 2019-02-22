@@ -1,0 +1,22 @@
+{
+    "name": "xieyi1393/flarum-ext-money_bcext",
+    "description": "本初PLUS-BCON扩展",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "谢毅",
+            "email": "xieyi@cnitai.com"
+        }
+    ],
+    "require": {},
+  "flarum-extension": {
+            "title": "本初BCON扩展",
+            "icon": {
+                "name": "fa fa-money",
+                "backgroundColor": "#74000E",
+                "color": "#BE1E31"
+            }
+        }
+
+}
